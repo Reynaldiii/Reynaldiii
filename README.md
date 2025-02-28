@@ -1,6 +1,6 @@
-Nama : Muhammad Reynaldi Dwi Saputra \n
-Nim  : 2802538510 \n
-Kelas: PPTI 20 \n
+Nama : Muhammad Reynaldi Dwi Saputra.
+Nim  : 2802538510.
+Kelas: PPTI 20.
 
 <!---
 Reynaldiii/Reynaldiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
